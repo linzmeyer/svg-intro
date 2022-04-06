@@ -1,0 +1,26 @@
+<svg width="56" height="56" opacity=".5">
+  <circle
+    cx="28"
+    cy="28"
+    r="25"
+    stroke="#5084ec"
+    stroke-width="3"
+    fill="transparent"
+  />
+  <line
+    x1="28"
+    y1="43"
+    x2="28"
+    y2="12"
+    stroke="#5084ec"
+    stroke-width="3"
+    stroke-linecap="round"
+  />
+  <polyline 
+    points="20,25 28,12 36,25"
+    fill="none"
+    stroke="#5084ec"
+    stroke-width="3"
+    stroke-linecap="round"
+  />
+</svg>

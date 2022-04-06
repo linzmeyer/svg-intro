@@ -1,0 +1,8 @@
+<svg height="400" width="400" style="background-color: black;">
+  <text x="22" y="180" fill="blue" style="font-size: 60px; font-family: monospace" >&#123;</text>
+  <circle cx="52" cy="178" r="3" fill="red" />
+  <circle cx="60" cy="178" r="3" fill="red" />
+  <circle cx="68" cy="178" r="3" fill="red" />
+  <text  x="70" y="180" fill="white" style="font-size: 40px; font-family: 'Montserrat', sans-serif;" >Context Coding</text>
+  <text  x="338" y="180" fill="blue" style="font-size: 60px; font-family: monospace" >&#125;</text>
+</svg>
